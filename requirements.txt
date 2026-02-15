@@ -1,0 +1,10 @@
+streamlit
+requests
+dnspython
+python-whois
+pandas
+plotly
+folium
+streamlit-folium
+reportlab
+python-nmap
